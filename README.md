@@ -4,6 +4,7 @@
 
 ## Установка
 
+Для установки нажмите [сюда](https://github.com/bleyzzi/ds_lab1_calc/releases/download/v1.0.1/main.zip)
 
 
 ## Автор
