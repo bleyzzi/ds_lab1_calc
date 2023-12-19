@@ -147,8 +147,9 @@ if __name__ == "__main__":
     root.title('Калькулятор/Кривонос Данила/12 группа 3 курс КТС')
     root.geometry('730x150')
     root.resizable(False, False)
-
+    root.config(bg='#FFFFCC')
     entry_num1 = Entry(root)
+
     entry_num1.grid(row=1, column=0)
     entry_num1.insert(0, '0')
 
